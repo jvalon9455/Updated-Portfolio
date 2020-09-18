@@ -6,6 +6,15 @@ body{
     font-family: 'Orbitron', sans-serif;
 }
 
+.nav-link {
+    font-family: 'Orbitron', sans-serif;
+}
+
 h1{
     font-family: 'Orbitron', sans-serif;
+}
+
+p{
+    font-family: 'Patua One', cursive;
+    font-size: 1.5em;
 }
