@@ -14,7 +14,11 @@ img {
     width: 300px;
     height: 150px;
 }
-
+#page-container {
+    min-height: calc(
+      100vh - 75px
+    ); 
+  }
 .circle_image {
     width: 250px;
     height: 250px;
@@ -36,3 +40,19 @@ p{
     margin-bottom: 20px;
     margin-left: 0px;
 }
+
+.contact > button {
+    background-color: burlywood;
+    border-radius: 5px;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 5px;
+    width: 130px;
+}
+
+#resume-btn {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  
